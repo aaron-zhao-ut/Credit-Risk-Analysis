@@ -1,7 +1,66 @@
 # Credit-Risk-Analysis-with-ML
-Project Objective:<br/><br/>
-  Building a Machine Learning model to analysis personal loan default rate.<br/>
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-Note:<br/><br/>
-  1. This project was done in python.<br/>
-  2. CSV results not included due to size restriction, however same result can be produced using give code via sql connection. 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+<!--     <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li> -->
+    <li><a href="#contact">Contact</a></li>
+<!--     <li><a href="#acknowledgements">Acknowledgements</a></li> -->
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+It is easy to loan out money but it is hard to get all the money back with interest.  
+Hence here is a Machine Learning model to analysis personal loan default rate.  
+  
+Note: CSV results can be produced using given code via sql connection. 
+
+
+### Built With
+
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Python](https://www.python.org/)
+
+<!-- CONTACT -->
+## Contact
+
+Aaron Zhao - zzh.zhao@mail.utoronto.ca
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/aaron-zhao
+[product-screenshot]: images/screenshot.png
